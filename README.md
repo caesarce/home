@@ -1,1 +1,1 @@
-My introduction to *Angular*
+My introduction to *Angular* in .NET Core
